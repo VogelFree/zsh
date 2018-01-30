@@ -1,5 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+export TERM=xterm-256color
+export XDG_CONFIG_HOME=~/.config
 
 # Path to your oh-my-zsh installation.
 export ZSH=~/Develop/config/git.zsh/submodule.oh_my_zsh
