@@ -4,7 +4,7 @@ export TERM=xterm-256color
 export XDG_CONFIG_HOME=~/.config
 
 # Path to your oh-my-zsh installation.
-export ZSH=~/Develop/config/git.zsh/submodule.oh_my_zsh
+export ZSH=~/Develop/Config/zsh-config/submodule.oh_my_zsh
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
